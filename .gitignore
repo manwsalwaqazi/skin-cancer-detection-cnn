@@ -1,0 +1,13 @@
+# Dataset files
+images/
+processed_images/
+HAM10000_metadata.csv
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Models
+*.h5
