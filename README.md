@@ -31,11 +31,15 @@ To run this project:
 ```bash
 git clone https://github.com/manwsalwaqazi/skin-cancer-detection-cnn.git
 cd skin-cancer-detection-cnn
+```
 
 2. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+---
 
 ## Usage
 1. Open skincancer_detection_final.ipynb in Jupyter Notebook.
