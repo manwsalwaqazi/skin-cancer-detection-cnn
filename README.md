@@ -50,15 +50,15 @@ pip install -r requirements.txt
 3. Preprocessed images and results will be automatically saved.
 
 ## Results
-Training Accuracy & Loss
+**Training Accuracy & Loss**
 
 <img width="1005" height="461" alt="image" src="https://github.com/user-attachments/assets/57e4407c-9425-4850-94c6-8e1a8a0153bc" />
 
-Confusion Matrix
+**Confusion Matrix**
 
 <img width="544" height="447" alt="image" src="https://github.com/user-attachments/assets/f0388862-18b6-40a6-80ee-3ef73f1d9f0e" />
 
-ROC Curve
+**ROC Curve**
 
 <img width="687" height="535" alt="image" src="https://github.com/user-attachments/assets/bfa463a3-4cc1-4fef-8a59-74f43e76e7fb" />
 
@@ -67,7 +67,7 @@ ROC Curve
 - Built a CNN model (MobileNetV2) for skin lesion classification.
 - Applied advanced preprocessing and augmentation for better accuracy.
 - Handled class imbalance with class weights.
-- Achieved XX% test accuracy (replace with your result).
+- Achieved 76% test accuracy.
 - Visualized performance with confusion matrix and ROC curve.
 
 ## References
